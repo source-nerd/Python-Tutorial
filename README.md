@@ -1,7 +1,7 @@
 # Welcome to Python Tutorial
 
 
-This is a brief Python 3 programming tutorial who want to wither brush up or learn Python as a programming language. I have tried to show everything in simple & plain language executed in Jupyter Notebook.
+This is a brief Python 3 programming tutorial who want to either brush up or learn Python as a programming language. I have tried to show everything in simple & plain language executed in Jupyter Notebook.
 
 This tutorial is aimed at people with some prior programming experience. Since, there are few tutorials in basics now but we will quickly be diving into advanced py stuff.
 
