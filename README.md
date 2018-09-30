@@ -21,7 +21,7 @@ This tutorial as of now contains only one section. The list will be updated shor
 Feel free to clone this repo or download it.
 Then follow the following steps in-order to run it properly in your local machine.
 1. Initialize the Project folder in virtual environment.
-2. Make sure to install the complete `requirements.txt`
+2. Make sure to install the complete `requirements.txt`: `pip install -r requirements.txt`
 3. And then you are all set, you can execute the code cell by cell and test it your self.
 
 > Note: If you are having issue in initializing the project as virtual env then do let me know. You can post it in the issues section.
